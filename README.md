@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TylerFarrior91
-- 👀 I’m interested in learning more about typescript and JavaScript.
-- 🌱 I’m currently learning SQL.
+- 👀 I’m interested in learning more about typescript and more JavaScript.
+- 🌱 I’m currently learning REACT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tylerfarrior@gmail.com
 
