@@ -2,7 +2,7 @@
 
 👀 I’m interested in learning more about TypeScript and JavaScript.
 
-🌱 I’m currently learning React.
+🌱 I’m currently learning Python and AWS.
 
 💞️ I’m looking to collaborate on ...
 
